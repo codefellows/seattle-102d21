@@ -18,7 +18,7 @@ Need space betwwe # and wording
 
 ## Links
 [Label](URL)
-[Star Wars Website](www.starwars.com)
+[Star Wars Website](http://www.starwars.com)
 
 ## Italics and Bold
 *bold* *italics* _bold_ _italics_
