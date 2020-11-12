@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+   text-align: center;
+   color:#6BDFCC;
+}
+
+li {
+    border: black 1px solid;
+    display: inline;
+    padding: 10px;
+    margin: 60px;
+    background-color: maroon;
+    color: bisque;
+}
+
+ul {
+    text-align: center;
+}
+
+img {
+    height: 1000px;
+}
+
+#firstimage {
+    height: 400px;
+}
+
+#secondimage {
+    height: 300px;
+}
+
+p {
+    color: maroon;
+}
